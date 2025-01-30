@@ -1,0 +1,22 @@
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Archivos temporales
+temp.json
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+node_modules/
